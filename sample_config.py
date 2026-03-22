@@ -10,7 +10,7 @@ class Config(object):
     API_HASH = "f240eae7c60e8e30c17203ab0e052f7e"
 
     # Authorized User
-    AUTH_USERS = {7521421400}
+    AUTH_USERS = {7892805795}
 
     # Banned Users
     BANNED_USERS = []
